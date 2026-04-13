@@ -1,0 +1,39 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# LaTeX
+*.aux
+*.log
+*.out
+*.toc
+*.bbl
+*.blg
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# Python (for any future computational material)
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Obsidian
+.obsidian/
+.trash/
+
+# Private / draft material (explicit exclusion)
+drafts/
+private/
+*.draft.md
+*.private.md
