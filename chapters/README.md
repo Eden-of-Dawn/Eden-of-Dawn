@@ -1,8 +1,6 @@
 # Chapters — TWLM Manuscript
 
-The TWLM manuscript consists of **fifteen chapters in five Parts**, developing the axiomatic system from first principles through to the action-theoretic conclusion in §6. This directory is the release-staging area for the chapter-by-chapter material.
-
-Chapters are released in **tiers** based on readiness for direct public release. The philosophical, theological, and mystical core constitutes **Tier 1 (Core)** and is the initial public release. Chapters with contemporary-political case studies are staged for later release after structural abstraction.
+The TWLM manuscript consists of **fifteen chapters in five Parts**, developing the axiomatic system from first principles through to the action-theoretic conclusion in §6. This directory contains the nine chapters released publicly; the remaining six chapters are included in the book version, available on request.
 
 **Languages:** **English** | [日本語](README_JA.md)
 
@@ -10,37 +8,38 @@ Chapters are released in **tiers** based on readiness for direct public release.
 
 ## Release Tiers
 
-| Tier | Status | Chapters | Criterion |
+| Tier | Status | Chapters | Location |
 |---|---|---|---|
-| **Core** | Initial public release | 9 chapters | Philosophy, theology, mysticism — releasable as-is |
-| **Abstracted** | Planned (v1.1) | 5 chapters | Political/social case studies require structural abstraction |
-| **Deferred** | Staged (v1.2+) | 1 chapter | Requires reformulation before release |
+| **Public** | Released in this repository | 9 chapters | This directory |
+| **Restricted** | Included in the book version | 6 chapters | Available on request |
+
+The Restricted chapters contain civilizational-structural critique with specific geopolitical referents. The material is neither illegal nor defamatory. The restriction reflects the difficulty of predicting the effect of such material on general audiences without the axiomatic context developed in the Public chapters. Within the book version, the material is contextualized by the full framework, and the complete argument retains its structural coherence.
 
 ## Chapter Map
 
 | # | Japanese Title | English Gloss | Part | Primary Theme | Tier |
 |---|---|---|---|---|---|
-| 1 | 文明の構造的失敗 | Structural Failure of Civilization | I · 問い | Political/Social | Abstracted |
-| 2 | 意味先行の病理 | Pathology of Meaning-Primacy | I · 問い | Political/Social | Abstracted |
-| 3 | 存在の自証性 | Self-Evidence of Existence | II · 基盤 | **Philosophy** | **Core** |
-| 4 | 非有 | Non-Being | II · 基盤 | **Philosophy / Mysticism** | **Core** |
-| 5 | 問いと分化 | Question and Differentiation | II · 基盤 | **Philosophy** | **Core** |
-| 6 | 意味後発性と ILCP | Meaning Posteriority and ILCP | III · 階層 | Political/Social | Abstracted |
-| 7 | 主観と対象化 | Subject and Objectification | III · 階層 | **Philosophy** | **Core** |
-| 8 | ILCP 詳論 | ILCP in Detail | III · 階層 | Political/Social | Abstracted |
-| 9 | サピア＝ウォーフの超越 | Transcending Sapir–Whorf | III · 階層 | **Philosophy** | **Core** |
-| 10 | 善の三層構造と悪の定義 | Three-Layer Structure of the Good | IV · 運動 | **Theology** | **Core** |
-| 11 | 堕落と個体性 | Fall and Individuality | IV · 運動 | **Theology / Mysticism** | **Core** |
-| 12 | 終末宣言 | Eschaton Declaration | IV · 運動 | **Theology** | **Core** |
-| 13 | ポスト社会契約論 | Post-Social Contract | V · エデン | Political/Social | Abstracted |
-| 14 | 社会の再設計 | Social Redesign | V · エデン | Political/Social | Deferred |
-| 15 | 汝の意志するところを行え | Do What Thou Wilt | V · エデン | **Theology / Mysticism** | **Core** |
+| 1 | 文明の構造的失敗 | Structural Failure of Civilization | I · 問い | Civilizational | Restricted |
+| 2 | 意味先行の病理 | Pathology of Meaning-Primacy | I · 問い | Civilizational | Restricted |
+| 3 | 存在の自証性 | Self-Evidence of Existence | II · 基盤 | **Philosophy** | **Public** |
+| 4 | 非有 | Non-Being | II · 基盤 | **Philosophy / Mysticism** | **Public** |
+| 5 | 問いと分化 | Question and Differentiation | II · 基盤 | **Philosophy** | **Public** |
+| 6 | 意味後発性と ILCP | Meaning Posteriority and ILCP | III · 階層 | Civilizational | Restricted |
+| 7 | 主観と対象化 | Subject and Objectification | III · 階層 | **Philosophy** | **Public** |
+| 8 | ILCP 詳論 | ILCP in Detail | III · 階層 | Civilizational | Restricted |
+| 9 | サピア＝ウォーフの超越 | Transcending Sapir–Whorf | III · 階層 | **Philosophy** | **Public** |
+| 10 | 善の三層構造と悪の定義 | Three-Layer Structure of the Good | IV · 運動 | **Theology** | **Public** |
+| 11 | 堕落と個体性 | Fall and Individuality | IV · 運動 | **Theology / Mysticism** | **Public** |
+| 12 | 終末宣言 | Eschaton Declaration | IV · 運動 | **Theology** | **Public** |
+| 13 | ポスト社会契約論 | Post-Social Contract | V · エデン | Civilizational | Restricted |
+| 14 | 社会の再設計 | Social Redesign | V · エデン | Civilizational | Restricted |
+| 15 | 汝の意志するところを行え | Do What Thou Wilt | V · エデン | **Theology / Mysticism** | **Public** |
 
 ---
 
-## Core Tier (Initial Release)
+## Public Chapters
 
-Nine chapters constitute the philosophy / theology / mysticism backbone of TWLM. These are releasable as-is, without structural abstraction:
+Nine chapters constitute the philosophy, theology, and mysticism backbone of TWLM. These are released in this directory as-is:
 
 ### Axiomatic Foundation (Philosophy)
 
@@ -57,7 +56,7 @@ Nine chapters constitute the philosophy / theology / mysticism backbone of TWLM.
 
 - **ch10 — Three-Layer Structure of the Good.** The good stratifies by vantage (individual / relational / structural); evil as closure of local good; conscience arises from tension across layers.
 - **ch11 — Fall and Individuality.** Necessary separation from totality; intentional degradation as irreversible; forgiveness as reconstruction. *Contains gender-metaphysical material (yin/yang structural parallel).*
-- **ch12 — Eschaton Declaration.** Three salvation phases (flesh → reason → spirit); reason is exhausted; the paradigm for apocalypse itself collapses; four civilizations simultaneously at the limit.
+- **ch12 — Eschaton Declaration.** Three salvation phases (flesh → reason → spirit); the first eschaton (Moses → Jesus) and the second eschaton's attempted announcement through the Unification movement; reason is exhausted; the paradigm for apocalypse itself collapses (T17).
 
 ### Action Principle (Theology / Mysticism)
 
@@ -65,29 +64,21 @@ Nine chapters constitute the philosophy / theology / mysticism backbone of TWLM.
 
 Together with the six-pager, these nine chapters form a self-contained exposition of TWLM's theoretical core.
 
-## Abstracted Tier (v1.1 Planned)
+## Restricted Chapters (Book Version)
 
-Five chapters will be released after structural abstraction — removing or generalizing contemporary-political case studies while preserving the underlying argument:
+Six chapters contain the civilizational application of TWLM's axiomatic framework. They are not released in this repository but are part of the book version:
 
-- **ch01** · Structural Failure of Civilization
-- **ch02** · Pathology of Meaning-Primacy
-- **ch06** · Meaning Posteriority and ILCP
-- **ch08** · ILCP in Detail
-- **ch13** · Post-Social Contract
+- **ch01** · Structural Failure of Civilization — Four-civilization ILCP analysis.
+- **ch02** · Pathology of Meaning-Primacy — Symmetric critique of ideological fossilization across political traditions.
+- **ch06** · Meaning Posteriority and ILCP — Detailed ILCP application.
+- **ch08** · ILCP in Detail — Extended structural case studies.
+- **ch13** · Post-Social Contract — Contract theory under meaning posteriority.
+- **ch14** · Social Redesign — Structural redesign proposals.
 
-The abstraction criterion: **keep the structural claim, generalize the concrete case**. Historical and geopolitical examples will be replaced with abstract structural descriptions, so the chapters can be read independently of contemporary political contingencies.
-
-## Deferred Tier (v1.2+)
-
-- **ch14** · Social Redesign — The current draft addresses specific contemporary issues (nuclear, vaccine autonomy, immigration, LGBTQ framing) too tied to present political discourse for direct release. A restructured "structural thought experiment" version may be published in a later release.
+These chapters are available on request as part of the book version. See [`../CONTACT.md`](../CONTACT.md).
 
 ---
 
-## Work Plan
+## Forward References from Public Chapters
 
-1. This INDEX is the definitive release-staging document.
-2. Each Core chapter will be committed as a separate markdown file under `chapters/` as its release-ready version is prepared.
-3. The six-pager lives in [`../paper/`](../paper/).
-4. Abstracted and Deferred chapters will be added in subsequent releases.
-
-For access to chapters not yet publicly released, see [`../CONTACT.md`](../CONTACT.md).
+Public chapters that refer to Restricted-chapter material note the reference inline (typically as *"(see book version)"*). The Public chapters are designed to stand as a self-contained exposition even without the Restricted material, while readers requesting the book version receive the full cross-referenced argument.
