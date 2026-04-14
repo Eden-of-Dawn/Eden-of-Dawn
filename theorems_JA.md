@@ -95,4 +95,4 @@ TWLM公理系から導出される定理を T1〜T18 まで番号付けして整
 - **T13（多様性単一性依存定理）** — 書籍版 第1章参照
 - **T16** — 書籍版参照（[`chapters/ch15-do-what-thou-wilt_JA.md`](chapters/ch15-do-what-thou-wilt_JA.md) §7 で「核兵器による存在基盤の破壊」として言及）
 
-書籍版の請求については [`CONTACT_JA.md`](CONTACT_JA.md) を参照。
+書籍版は一般配布していません。

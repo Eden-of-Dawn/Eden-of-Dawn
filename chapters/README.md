@@ -1,6 +1,6 @@
 # Chapters — TWLM Manuscript
 
-The TWLM manuscript consists of **fifteen chapters in five Parts**, developing the axiomatic system from first principles through to the action-theoretic conclusion in §6. This directory contains the nine chapters released publicly; the remaining six chapters are included in the book version, available on request.
+The TWLM manuscript consists of **fifteen chapters in five Parts**, developing the axiomatic system from first principles through to the action-theoretic conclusion in §6. This directory contains the nine chapters released publicly; the remaining six chapters are included in the book version, which is not publicly distributed.
 
 **Languages:** **English** | [日本語](README_JA.md)
 
@@ -11,7 +11,7 @@ The TWLM manuscript consists of **fifteen chapters in five Parts**, developing t
 | Tier | Status | Chapters | Location |
 |---|---|---|---|
 | **Public** | Released in this repository | 9 chapters | This directory |
-| **Restricted** | Included in the book version | 6 chapters | Available on request |
+| **Restricted** | Included in the book version | 6 chapters | Not publicly distributed |
 
 The Restricted chapters contain civilizational-structural critique with specific geopolitical referents. The material is neither illegal nor defamatory. The restriction reflects the difficulty of predicting the effect of such material on general audiences without the axiomatic context developed in the Public chapters. Within the book version, the material is contextualized by the full framework, and the complete argument retains its structural coherence.
 
@@ -75,10 +75,10 @@ Six chapters contain the civilizational application of TWLM's axiomatic framewor
 - **ch13** · Post-Social Contract — Contract theory under meaning posteriority.
 - **ch14** · Social Redesign — Structural redesign proposals.
 
-These chapters are available on request as part of the book version. See [`../CONTACT.md`](../CONTACT.md).
+These chapters are part of the book version and are not publicly distributed.
 
 ---
 
 ## Forward References from Public Chapters
 
-Public chapters that refer to Restricted-chapter material note the reference inline (typically as *"(see book version)"*). The Public chapters are designed to stand as a self-contained exposition even without the Restricted material, while readers requesting the book version receive the full cross-referenced argument.
+Public chapters that refer to Restricted-chapter material note the reference inline (typically as *"(see book version)"*). The Public chapters are designed to stand as a self-contained exposition even without the Restricted material.

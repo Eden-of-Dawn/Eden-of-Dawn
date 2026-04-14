@@ -6,7 +6,7 @@ This directory holds published summaries and release-ready materials for TWLM.
 
 - **Six-Pager (EN)** — A six-page English-language summary of TWLM's axiomatic system, theorem stack, and the three-eschaton historical schema. Release pending.
 - **Summary diagrams** — Axiom-to-theorem dependency graphs and the three-eschaton schema diagram.
-- **Full manuscript** — Not publicly released. Available on request; see [`../CONTACT.md`](../CONTACT.md).
+- **Full manuscript** — Not publicly released.
 
 ---
 

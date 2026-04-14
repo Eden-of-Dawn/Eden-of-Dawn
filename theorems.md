@@ -95,4 +95,4 @@ The following theorems are referenced in Public chapters but their complete form
 - **T13 (Diversity–Unity Dependency)** — See book version, ch01.
 - **T16** — See book version. Referenced in [`chapters/ch15-do-what-thou-wilt_JA.md`](chapters/ch15-do-what-thou-wilt_JA.md) §7 as "destruction of the substrate of questioning via nuclear weapons".
 
-For the book version, see [`CONTACT.md`](CONTACT.md).
+The book version is not publicly distributed.
