@@ -98,11 +98,15 @@ The hexagram (Star of David, Kagome crest) shows two triangles overlapping **wit
 
 The hexagram symbolises the divine because it depicts the state in which all four operations — difference, unity, separation, transcendence — are in structural equilibrium: the world functioning as it should.
 
-### Why the Dingir (Centre-Connected Hexagram) Symbolises Black Magic
+### The Unicursal Hexagram: When the Boundary Collapses
 
-When the centre connects, the boundary between unity and separation collapses. Difference is no longer preserved; unity swallows separation (or separation destroys unity). Structural equilibrium breaks down.
+The unicursal hexagram — a six-pointed star drawn in a single continuous line, adopted by Aleister Crowley for Thelema — contrasts structurally with the Star of David. Where the Star of David consists of two independent triangles that overlap while retaining their own vertices, the unicursal hexagram merges the two into a single unbroken path. The boundary between the upward and downward triangles disappears.
 
-In TWLM's terms: an ILCP violation made into an icon. Upper layers unilaterally determining lower layers (or vice versa). A closed structure distorting the persistence of the whole — the definition of evil (Chapter 10).
+From TWLM's standpoint, this depicts the collapse of the structural boundary between unity and separation. Difference is no longer preserved as an independent term; the two operations fuse into a single circuit. Whether this is read as transcendence (the axis that holds both) or as structural collapse (ILCP violation — one layer swallowing the other) depends on the operator's position.
+
+Crowley's Thelemic interpretation is closer to transcendence: the unicursal hexagram represents macrocosm and microcosm united through the Great Work. TWLM's Chapter 15 ("Do What Thou Wilt") repositions this formula from within its own axiomatic system. The structural question is whether the fusion genuinely preserves both operations at a higher order (transcendence) or whether it annihilates the distinction and produces a closed structure (evil, Chapter 10). The symbol itself is ambiguous — which is precisely why it has been read as both sacred and dangerous across traditions.
+
+Note: The unicursal hexagram is distinct from the Dingir (𒀭), the Sumerian cuneiform sign for "god" / "sky," which is an eight-pointed star and bears no structural relation to the hexagram.
 
 ## Layers of Subjectivity
 
