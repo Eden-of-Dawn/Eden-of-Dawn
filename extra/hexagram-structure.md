@@ -55,9 +55,9 @@ Difference has no polarity. By Axiom 0, the pre-differential cannot be questione
 | | Polarity | Operation | Analogy |
 |--|----------|-----------|---------|
 | Difference | **Non-polar** | Fluctuation itself. No directionality | Phase transition of Non-Being |
-| Unity (+) | **Yang** | Attracts correspondence. A cohesive force | Positive pressure |
-| Separation (−) | **Yin** | Maintains distance so correspondence does not annihilate difference | Negative pressure |
-| Transcendence | **Imaginary axis** | Sustains both yang and yin. Belongs to neither | The condition of coherence |
+| Unity (−) | **Yin** | Attracts correspondence. A cohesive force | Negative pressure |
+| Separation (+) | **Yang** | Maintains distance so correspondence does not annihilate difference | Positive pressure |
+| Transcendence | **Imaginary axis** | Sustains both yin and yang. Belongs to neither | The condition of coherence |
 
 ### The Structural Gap in the Yin-Yang Symbol
 
