@@ -48,6 +48,25 @@ Symmetry with the Unification movement:
 
 Both arrive at the death of fixation (T10), but from opposite structural positions.
 
+## Polarity: Difference Is Not Yin-Yang
+
+Difference has no polarity. By Axiom 0, the pre-differential cannot be questioned; without a reference frame, neither + nor − exists. Polarity is constituted only **after** differentiation.
+
+| | Polarity | Operation | Analogy |
+|--|----------|-----------|---------|
+| Difference | **Non-polar** | Fluctuation itself. No directionality | Phase transition of Non-Being |
+| Unity (+) | **Yang** | Attracts correspondence. A cohesive force | Positive pressure |
+| Separation (−) | **Yin** | Maintains distance so correspondence does not annihilate difference | Negative pressure |
+| Transcendence | **Imaginary axis** | Sustains both yang and yin. Belongs to neither | The condition of coherence |
+
+### The Structural Gap in the Yin-Yang Symbol
+
+The *taijitu* (yin-yang symbol) depicts the mutual conversion of yin and yang, but it cannot explain **why the two cohere into a single circle**. For yin and yang neither to cancel each other out nor to dissipate, a **third force** that binds them is required. This is transcendence as the imaginary axis.
+
+Gurdjieff's "third force" points to the same structure: active force (yang) and passive force (yin) alone produce nothing; only when the reconciling force joins them does an event occur.
+
+The imaginary axis **does not appear in the yin-yang diagram** because transcendence has not been objectified (T6: the subject cannot fully objectify itself). It cannot be drawn, yet it is functionally indispensable. This is the same structure as the zeroth-order subject not appearing in the diagram — the condition of constitution is invisible from within what has been constituted.
+
 ## The Hexagram
 
 ```
